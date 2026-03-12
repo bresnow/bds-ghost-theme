@@ -1,12 +1,12 @@
-# London
+# Bresnow Design Studio Ghost Theme
 
 A custom, image-centric theme for [Ghost](https://github.com/TryGhost/Ghost). Made for publishers and portfolios with plenty of graphics to show off to the world.
 
-**Demo: https://london.ghost.io**
+**Demo: https://bresnow.design**
 
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/London/archive/main.zip)
+1. [Download this theme](https://github.com/bresnow/bds-ghost-theme)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Development
@@ -40,4 +40,5 @@ Please see the @Tryghost/Themes/theme-translations/README.md for how to edit or 
 # Copyright & License
 
 Copyright (c) 2013-2026 Ghost Foundation - Released under the [MIT license](LICENSE).
+
 # bds-ghost-theme
